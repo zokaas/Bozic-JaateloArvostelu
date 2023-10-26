@@ -1,0 +1,41 @@
+.app {
+    font-family:Verdana, Tahoma;
+    text-align: left;
+  }
+
+  body {
+    background-color: #89CFF0;
+  }
+  
+  form {
+    margin-bottom: 20px;
+    
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  input {
+    width: 80%;
+    padding: 8px;
+    box-sizing: border-box;
+
+  }
+  
+  input[type="number"] {
+    max-width: 50px; 
+    text-align: center;
+  }
+  
+  button {
+    padding: 8px 16px;
+    font-size: 16px;
+    display: block; 
+    margin-top: 10px;
+  }
+
+  li {
+    margin-bottom: 10px;
+}
